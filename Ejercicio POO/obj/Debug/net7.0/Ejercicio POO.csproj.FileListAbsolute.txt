@@ -1,0 +1,14 @@
+C:\Users\Nazaret\OneDrive\Escritorio\trabajos UAZ\4º semestre\Programacion.NET\C-lculosMatem-ticos\Ejercicio POO\bin\Debug\net7.0\Ejercicio POO.exe
+C:\Users\Nazaret\OneDrive\Escritorio\trabajos UAZ\4º semestre\Programacion.NET\C-lculosMatem-ticos\Ejercicio POO\bin\Debug\net7.0\Ejercicio POO.deps.json
+C:\Users\Nazaret\OneDrive\Escritorio\trabajos UAZ\4º semestre\Programacion.NET\C-lculosMatem-ticos\Ejercicio POO\bin\Debug\net7.0\Ejercicio POO.runtimeconfig.json
+C:\Users\Nazaret\OneDrive\Escritorio\trabajos UAZ\4º semestre\Programacion.NET\C-lculosMatem-ticos\Ejercicio POO\bin\Debug\net7.0\Ejercicio POO.dll
+C:\Users\Nazaret\OneDrive\Escritorio\trabajos UAZ\4º semestre\Programacion.NET\C-lculosMatem-ticos\Ejercicio POO\bin\Debug\net7.0\Ejercicio POO.pdb
+C:\Users\Nazaret\OneDrive\Escritorio\trabajos UAZ\4º semestre\Programacion.NET\C-lculosMatem-ticos\Ejercicio POO\obj\Debug\net7.0\Ejercicio POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazaret\OneDrive\Escritorio\trabajos UAZ\4º semestre\Programacion.NET\C-lculosMatem-ticos\Ejercicio POO\obj\Debug\net7.0\Ejercicio POO.AssemblyInfoInputs.cache
+C:\Users\Nazaret\OneDrive\Escritorio\trabajos UAZ\4º semestre\Programacion.NET\C-lculosMatem-ticos\Ejercicio POO\obj\Debug\net7.0\Ejercicio POO.AssemblyInfo.cs
+C:\Users\Nazaret\OneDrive\Escritorio\trabajos UAZ\4º semestre\Programacion.NET\C-lculosMatem-ticos\Ejercicio POO\obj\Debug\net7.0\Ejercicio POO.csproj.CoreCompileInputs.cache
+C:\Users\Nazaret\OneDrive\Escritorio\trabajos UAZ\4º semestre\Programacion.NET\C-lculosMatem-ticos\Ejercicio POO\obj\Debug\net7.0\Ejercicio POO.dll
+C:\Users\Nazaret\OneDrive\Escritorio\trabajos UAZ\4º semestre\Programacion.NET\C-lculosMatem-ticos\Ejercicio POO\obj\Debug\net7.0\refint\Ejercicio POO.dll
+C:\Users\Nazaret\OneDrive\Escritorio\trabajos UAZ\4º semestre\Programacion.NET\C-lculosMatem-ticos\Ejercicio POO\obj\Debug\net7.0\Ejercicio POO.pdb
+C:\Users\Nazaret\OneDrive\Escritorio\trabajos UAZ\4º semestre\Programacion.NET\C-lculosMatem-ticos\Ejercicio POO\obj\Debug\net7.0\Ejercicio POO.genruntimeconfig.cache
+C:\Users\Nazaret\OneDrive\Escritorio\trabajos UAZ\4º semestre\Programacion.NET\C-lculosMatem-ticos\Ejercicio POO\obj\Debug\net7.0\ref\Ejercicio POO.dll
